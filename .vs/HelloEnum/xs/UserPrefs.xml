@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C31F8F09-C82E-414D-93E6-EC66BE8E37ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloEnum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloEnum/AerobicClass.cs">
+    <Files>
+      <File FileName="HelloEnum/Program.cs" />
+      <File FileName="HelloEnum/SeasonEnum.cs" />
+      <File FileName="HelloEnum/AerobicClass.cs" />
+      <File FileName="HelloEnum/SeasonEnumExtenstion.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloEnum" expanded="True" selected="True">
+            <Node name="HelloEnum" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

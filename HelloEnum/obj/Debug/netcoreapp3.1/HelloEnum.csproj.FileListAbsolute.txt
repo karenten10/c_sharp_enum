@@ -1,0 +1,12 @@
+/Users/karen/Projects/HelloEnum/HelloEnum/bin/Debug/netcoreapp3.1/HelloEnum.deps.json
+/Users/karen/Projects/HelloEnum/HelloEnum/bin/Debug/netcoreapp3.1/HelloEnum.runtimeconfig.json
+/Users/karen/Projects/HelloEnum/HelloEnum/bin/Debug/netcoreapp3.1/HelloEnum.runtimeconfig.dev.json
+/Users/karen/Projects/HelloEnum/HelloEnum/bin/Debug/netcoreapp3.1/HelloEnum.dll
+/Users/karen/Projects/HelloEnum/HelloEnum/bin/Debug/netcoreapp3.1/HelloEnum.pdb
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.csprojAssemblyReference.cache
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.AssemblyInfoInputs.cache
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.AssemblyInfo.cs
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.csproj.CoreCompileInputs.cache
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.dll
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.pdb
+/Users/karen/Projects/HelloEnum/HelloEnum/obj/Debug/netcoreapp3.1/HelloEnum.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloEnum/1.0.0": {
+        "runtime": {
+          "HelloEnum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloEnum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
